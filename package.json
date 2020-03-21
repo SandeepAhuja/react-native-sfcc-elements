@@ -1,0 +1,25 @@
+{
+  "name": "react-native-sfcc-elements",
+  "version": "1.0.0",
+  "description": "Collection of basic UI components for SFCC platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandeepAhuja/react-native-sfcc-elements.git"
+  },
+  "keywords": [
+    "sfcc"
+  ],
+  "author": "Sandeep Ahuja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandeepAhuja/react-native-sfcc-elements/issues"
+  },
+  "homepage": "https://github.com/SandeepAhuja/react-native-sfcc-elements#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.58.0"
+  }
+}
